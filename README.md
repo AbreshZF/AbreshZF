@@ -63,8 +63,8 @@ $ contact --info
 
 <p align="center">
   <a href="https://github.com/AbreshZF"><img src="https://img.shields.io/badge/GitHub-0d1117?style=flat-square&logo=github&logoColor=79C0FF&labelColor=0d1117&color=161b22" alt="GitHub"/></a>
-  <a href="#"><img src="https://img.shields.io/badge/LinkedIn-0d1117?style=flat-square&logo=linkedin&logoColor=79C0FF&labelColor=0d1117&color=161b22" alt="LinkedIn"/></a>
-  <a href="#"><img src="https://img.shields.io/badge/Email-0d1117?style=flat-square&logo=protonmail&logoColor=79C0FF&labelColor=0d1117&color=161b22" alt="Email"/></a>
+  <a href="https://www.linkedin.com/in/abreham-zerfu-aka-ambrose"><img src="https://img.shields.io/badge/LinkedIn-0d1117?style=flat-square&logo=linkedin&logoColor=79C0FF&labelColor=0d1117&color=161b22" alt="LinkedIn"/></a>
+  <a href=""><img src="https://img.shields.io/badge/Email-0d1117?style=flat-square&logo=protonmail&logoColor=79C0FF&labelColor=0d1117&color=161b22" alt="Email"/></a>
 </p>
 
 <div align="center">
