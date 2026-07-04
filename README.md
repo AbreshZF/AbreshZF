@@ -11,6 +11,7 @@
 ```
 $ cat about.md
 ```
+# Abreham AKA Ambrose
 
 Cybersecurity student focused on offensive security. I learn by doing —
 labs, CTFs, and rebuilding real attack chains until I understand every
@@ -34,30 +35,6 @@ $ cat focus.md
 </td>
 <td valign="top" width="50%">
 
-**Next up**
-- Kerberos attack paths
-- Windows Privilege Escalation
-- Red Team methodology
-- Active Directory (deeper)
-- and so on.....
-
-</td>
-</tr>
-</table>
-
-```
-$ ls tools/ -la
-```
-
-| Recon & Web | Active Directory | Cracking & Access |
-|---|---|---|
-| Nmap | Impacket | Hashcat |
-| FFUF | NetExec | John the Ripper |
-| Burp Suite | BloodHound | Evil-WinRM |
-| Wireshark | | |
-
-<sub>daily driver: Kali Linux · Python for tooling and automation</sub>
-
 ```
 $ cat goals.md
 ```
@@ -69,9 +46,10 @@ $ cat goals.md
 <br/>
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=AbreshZF&show_icons=true&theme=transparent&hide_border=true&bg_color=0d1117&title_color=E6EDF3&text_color=8b949e&icon_color=79C0FF" height="165"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AbreshZF&layout=compact&theme=transparent&hide_border=true&bg_color=0d1117&title_color=E6EDF3&text_color=8b949e" height="165"/>
+  <img src="https://github-stats-extended.vercel.app/api?username=AbreshZF&show_icons=true&theme=transparent&hide_border=true&bg_color=0d1117&title_color=E6EDF3&text_color=8b949e&icon_color=79C0FF" alt="stats" height="165"/>
+  <img src="https://github-stats-extended.vercel.app/api/top-langs/?username=AbreshZF&layout=compact&theme=transparent&hide_border=true&bg_color=0d1117&title_color=E6EDF3&text_color=8b949e" alt="top languages" height="165"/>
 </div>
+
 
 <div align="center">
   <img src="https://streak-stats.demolab.com?user=AbreshZF&theme=transparent&hide_border=true&background=0D1117&stroke=8b949e&ring=79C0FF&fire=F2CC60&currStreakLabel=E6EDF3&sideLabels=8b949e&dates=8b949e"  height="165"/>
